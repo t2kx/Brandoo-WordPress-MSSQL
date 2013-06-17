@@ -68,6 +68,9 @@ and Windows Azure Public/Private cloud.
 Microsoft Web Platform Installer , Microsoft Web Matrix and Windows Azure Public/Private cloud installer files
 are located in GitHub repositorry: https://github.com/Brandoo/Brandoo-WordPress-WWAG-installator
 
+Complete packages for Windows Web App Gallery are located in GitHub repository:
+https://github.com/Brandoo/Brandoo-WordPress-MSSQL-Packages
+
 Bundle was created with Windows Web Application Gallery in mind.
 
 /* META */
