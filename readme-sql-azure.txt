@@ -48,9 +48,9 @@ e-mail: michal.smereczynski@brandoo.pl
 OmniTI team (http://omniti.com/), T4ngram
 
 /* DESCRIPTION */
-Brandoo WordPress (MS SQL / Azure SQL) includes latest, stable version of WordPress CMS, Database Abstraction plugin
+Brandoo WordPress (MS SQL or Azure SQL) includes latest, stable version of WordPress CMS, Database Abstraction plugin
 created by OmniTI team to make possible to run a WordPress CMS using MS SQL Server or Azure SQL.
-Brandoo WordPress (MS SQL / Azure SQL) also includes WordPress installer, improved by Brandoo team,
+Brandoo WordPress (MS SQL or Azure SQL) also includes WordPress installer, improved by Brandoo team,
 that helps to automate the installation process.
 
 Database Abstraction plugin included in package provides two features: database access abstraction
