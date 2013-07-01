@@ -723,7 +723,7 @@ class SQL_Translations extends wpdb
             && (stripos($query,'UPDATE') !== 0  && stripos($query,'UPDATE') !== FALSE) ) {
             return $query;
         }
-        $pattern = '/LIMIT\s*(\d+)((\s*,?\s*)(\d+)*)(;{0,1})$/is';
+        $pattern = '/LIMIT\s*(\d+)((\s*,?\s*)(\d+)*);{0,1}$/is';
         $matched = preg_match($pattern, $query, $limit_matches);
         if ( $matched == 0 ) {
             return $query;
