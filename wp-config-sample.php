@@ -27,6 +27,9 @@ define('DB_PASSWORD', 'password_here');
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
 
+/** Database Type.*/
+define('DB_TYPE', 'pdo_sqlsrv');
+
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
 
@@ -60,6 +63,10 @@ define('NONCE_SALT',       'put your unique phrase here');
  * prefix. Only numbers, letters, and underscores please!
  */
 $table_prefix  = 'wp_';
+
+/** Query Logging Settings */
+define('SAVEQUERIES', FALSE);
+define('QUERY_LOG', 'app_log_path_here');
 
 /**
  * WordPress Localized Language, defaults to English.
