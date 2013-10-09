@@ -75,6 +75,6 @@ Bundle was created with Windows Web Application Gallery in mind.
 
 /* META */
 Updated: 2013/06/13
-See: http://brandoo.pl
+See: http://wordpress.brandoo.pl
 
 
